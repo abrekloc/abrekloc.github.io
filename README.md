@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+![Abrek Banner](https://user-images.githubusercontent.com/44588876/224436283-ced47436-8e2a-4a50-93d0-1356a45cf26f.png)
+<br>
+<h2 align="center">Hi! I'm Abrek.</h2>
+<br>
+<h3 align="center">Localization Specialist and Front-End Developer</h3>
+<br>
+<p align="center">My passion and profession is to adapt and amplify the value of products and services to different cultures.</p>
+<p align="center">You can always contact me through <a href="https://www.linkedin.com/in/abrekkoch/" rel="noopener noreferrer" target="_blank">LinkedIn</a>.</p>
+<br>
+<h2 align="center">Featured Projects</h2>
+<br>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Travellers Rest</h3>
+<div align="center">
+<a href="https://store.steampowered.com/app/1139980/Travellers_Rest/" target="_blank"><img src="https://images.gog-statics.com/e9ea2bc3af5caa1a2b9b37cd761fce5a150378996a1897448cfa653ecf05445f.jpg" width="400" height="250" alt="Travellers Rest"></a>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">When the Past Was Around</h3>
+<div align="center">
+<a href="https://store.steampowered.com/app/1164050/When_The_Past_Was_Around/" target="_blank"><img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/w/when-the-past-was-around-switch/hero" width="400" height="250" alt="When the Past Was Around"></a>
+</div>
+</td>
 
-## Available Scripts
+<td width="50%">
+<h3 align="center">DIG - Deep In Galaxies</h3>
+<div align="center">                                       
+<a href="https://store.steampowered.com/app/1442840/DIG__Deep_In_Galaxies/" target="_blank"> <img src="https://i.hizliresim.com/cy86n2d.jpeg" width="400" height="250" alt="Deep In Galaxies"></a>
+</div>
 
-In the project directory, you can run:
+<h3 align="center">A Space For the Unbound</h3>
+<div align="center">
+<a href="https://store.steampowered.com/app/1201270/A_Space_for_the_Unbound/" target="_blank"><img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/a/a-space-for-the-unbound-switch/hero" width="400" height="250" alt="ASTFU"></a>
+</div>                                                                  
+</table>                                                                                 
+</div>
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br>
+<br>
+<h2 align="left">Languages and Tools:</h2>
+<br>
+<br>
+<p align="left">
+<h3 align="left">Front-End</h3>
+<br>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Eg" alt="javascript" </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" </a>
+<br>
+<br>
+</a>
+<h3 align="left">Localization</h3>
+<br>
+<a href="https://www.memoq.com" target="_blank"> <img src="https://img.shields.io/badge/MemoQ-orange?style=for-the-badge&logo=microsofttranslator">
+<a href="https://www.rws.com/localization/products/trados-studio/" target="_blank"> <img src="https://img.shields.io/badge/RWS%20Trados-green?style=for-the-badge&logo=microsofttranslator&"> 
+<a href="https://phrase.com" target="_blank"> <img src="https://img.shields.io/badge/Phrase-9cf?style=for-the-badge&logo=microsofttranslator&">
+<a href="https://www.phrase.com" target="_blank"> <img src="https://img.shields.io/badge/Crowdin-lightgrey?style=for-the-badge&logo=microsofttranslator&">
+<a href="https://www.smartcat.ai" target="_blank"> <img src="https://img.shields.io/badge/Smartcat-violet?style=for-the-badge&logo=microsofttranslator&">
+<a href="https://www.xbench.net" target="_blank"> <img src="https://img.shields.io/badge/XBENCH-pink?style=for-the-badge&logo=microsofttranslator&">
+<br>
+<br>
+</a>
+<h3 align="left">Desktop Publishing & Editing</h3>
+<br>
+<a href="https://www.canva.com" target="_blank"> <img src="https://img.shields.io/badge/CANVA-white?style=for-the-badge&logo=canva">
+<a href="https://www.adobe.com/" target="_blank"> <img src="https://img.shields.io/badge/InDesign-blue?style=for-the-badge&logo=adobeindesign">
+<a href="https://www.adobe.com/" target="_blank"> <img src="https://img.shields.io/badge/PHOTOSHOP-gray?style=for-the-badge&logo=adobephotoshop"></a>
